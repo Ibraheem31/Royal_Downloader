@@ -2,7 +2,7 @@
 
 Free YouTube Video Playlist Downloader
 
-Attention Please
+# Attention Please
 
 I hope you are all doing well.
 
@@ -11,37 +11,26 @@ Note: I am not encouraging piracy, as the content creator on Youtube is doing a 
 
 One more thing is that when you people complete your courses and start earning, just pay tribute to those channels from where you downloaded their lectures. For that, just watch their videos and pay tribute, as they are our mentors.
 
-Important Notes
+# About this application:
 
-1. It is a simple Python-based file, and you don't need to install Python or any other extension on your PC.
+1. It is a simple Python-based application, and you don't need to install Python or any other extension on your PC.
 
 2. This application will never harm your PC, as it is completely secure and a simple programme. It may show while directly downloading via GitHub that it has some issues, but it is just because of the "exe" file.
 
-3. If you dont have GitHub Account then download this application form the given 
-3. You just need to download the file, run it as an administrator, copy the YouTube playlist URL that you want to download, and then press the "Enter Key." It automatically starts downloading videos. Note: Videos will be downloaded in the same folder in which you downloaded this application.
+3. If you face any issues while downloading or installing this application, it is just because of system differences. The other PC may have different system configurations, security settings, or software versions. It's possible that your PC has additional security measures in place or different software versions that are not causing the same issue, but overall, you will never face any issues.
 
-4. It is completely free and just a simple application; you just need to paste the link to the desired YouTube playlist, and it works automatically.
+4. I have added the application file to my GitHub account, which people can download from there.
 
-5. Make sure you have an active internet connection while downloading these videos.
+5. If you don't have a GitHub account, then download this application from the given.rar file and extract it on your PC or laptop.
 
-6. This application has been tested on different laptops and PCs, and it is working properly.
+# How to use
 
-7. If you face this error "W//W+" or any related error, it is just because of a slow internet connection, so make sure you have an active internet connection.
+1. You just need to download the file, run it as an administrator, copy the YouTube playlist URL that you want to download, and then press the "Enter Key." It automatically starts downloading videos. Note: Videos will be downloaded in the same folder in which you downloaded this application.
 
-8. Note that the videos that are private and not available on the Youtube Playlist won't be downloaded because of the Youtube policy, but we will try to bypass this in the next release.
+2. Make sure you have an active internet connection while downloading these videos.
 
-Here is my introduction.
+3. This application has been tested on different laptops and PCs, and it is working properly.
 
-I am Ibraheem Siddiqui, currently studying software engineering at Mehran University's SZAB Campus in Khairpur Mir.
+4. If you face this error "W//W+" or any related error, it is just because of a slow internet connection, so make sure you have an active internet connection.
 
-Here is my LinkedIn profile and GitHub Profile
-
-Let's connect there.
-
-LinkedIn
-
-https://www.linkedin.com/in/ibraheem-siddiqui-8422a7258/
-
-GitHub
-
-https://github.com/Ibraheem31
+8. Note that the videos that are private and not available on the Youtube Playlist won't be downloaded because of the Youtube policy, but I'll try to bypass this in the next release.
